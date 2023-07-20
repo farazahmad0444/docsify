@@ -1,4 +1,4 @@
-## docsify
+## Kit of Parts: User Guide (Non-Technical)
 
 > A magical documentation site generator.
 
